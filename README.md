@@ -12,11 +12,11 @@ A simple and modern web project showcasing various button hover effects using on
 
 ## 🚀 Features
 
-- ✅ Pure HTML & CSS (No JavaScript)
-- 🎨 Multiple hover effects (slide, glow, zoom, rotate, etc.)
-- 🌗 Light & dark mode styles (optional)
-- 🧩 Interactive icons using Font Awesome
-- 💻 Responsive layout
+- ✅ Pure HTML & CSS (No JavaScript).
+- 🎨 Multiple hover effects (slide, glow, zoom, rotate, etc.).
+- 🌗 Light & dark mode styles (optional).
+- 🧩 Interactive icons using Font Awesome.
+- 💻 Responsive layout.
 
 ---
 
