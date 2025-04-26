@@ -52,9 +52,9 @@ button-hover-effects/
    
 Navigate to the project folder:
 
-```
-cd hover-button
-```
+   ```
+   cd hover-button
+   ```
 
 Open index.html in your browser to view the hover effects.
 
