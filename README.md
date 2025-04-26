@@ -58,3 +58,15 @@ Navigate to the project folder:
 
 Open index.html in your browser to view the hover effects.
 
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository or download the ZIP.
+2. Replace the images in the `images/` folder with your own.
+3. Open `index.html` in your browser to view the card.
+4. Modify `style.css` to adjust layout, size, or effects as needed.
+
+---
+
