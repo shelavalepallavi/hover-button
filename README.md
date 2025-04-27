@@ -1,4 +1,4 @@
-# 🎯 Button Hover Effects
+# 🎯 Button Hover
 
 A simple and modern web project showcasing various button hover effects using only HTML and CSS. This project demonstrates how hover animations and transitions can enhance user experience.
 
@@ -22,7 +22,7 @@ A simple and modern web project showcasing various button hover effects using on
 
 ## 📁 Project Structure
 ```
-button-hover-effects/
+button-hover/
 │
 ├── index.html                 # Main HTML file
 ├── README.md                  # Project documentation
